@@ -71,7 +71,7 @@
     "@babel/register": "^7.4.4",
     "antd": "^3.19.0",
     "asset-require-hook": "^1.2.0",
-    "axios": "^0.18.0",
+    "axios": "^1.6.8",
     "babel-plugin-react-css-modules": "^5.2.6",
     "dayjs": "^1.8.15",
     "dom-to-image": "^2.6.0",
